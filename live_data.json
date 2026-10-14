@@ -1,6 +1,6 @@
 {
-  "time": "14-Oct-2026 10:19:30 AM IST",
-  "timestamp": 1791953370,
+  "time": "14-Oct-2026 10:20:15 AM IST",
+  "timestamp": 1791953415,
   "date": "2026-10-14",
   "spot": 22700.7,
   "prev_close": 22721.95,
@@ -28,7 +28,7 @@
     "chain": [
       {
         "expiry_date": "19-Oct-2026",
-        "spot_price": 22695.95,
+        "spot_price": 22695.9,
         "strike_price": 22200,
         "ce_oi": 6115,
         "ce_oi_change": -64,
@@ -64,7 +64,7 @@
       },
       {
         "expiry_date": "19-Oct-2026",
-        "spot_price": 22695.95,
+        "spot_price": 22695.9,
         "strike_price": 22400,
         "ce_oi": 15976,
         "ce_oi_change": -548,
@@ -100,7 +100,7 @@
       },
       {
         "expiry_date": "19-Oct-2026",
-        "spot_price": 22695.95,
+        "spot_price": 22695.9,
         "strike_price": 22500,
         "ce_oi": 47935,
         "ce_oi_change": -326,
@@ -136,7 +136,7 @@
       },
       {
         "expiry_date": "19-Oct-2026",
-        "spot_price": 22695.95,
+        "spot_price": 22695.9,
         "strike_price": 22600,
         "ce_oi": 51115,
         "ce_oi_change": 8064,
@@ -172,7 +172,7 @@
       },
       {
         "expiry_date": "19-Oct-2026",
-        "spot_price": 22695.95,
+        "spot_price": 22695.9,
         "strike_price": 22650,
         "ce_oi": 36914,
         "ce_oi_change": 24446,
@@ -208,7 +208,7 @@
       },
       {
         "expiry_date": "19-Oct-2026",
-        "spot_price": 22695.95,
+        "spot_price": 22695.9,
         "strike_price": 22700,
         "ce_oi": 150544,
         "ce_oi_change": 90196,
@@ -244,7 +244,7 @@
       },
       {
         "expiry_date": "19-Oct-2026",
-        "spot_price": 22695.95,
+        "spot_price": 22695.9,
         "strike_price": 22750,
         "ce_oi": 77178,
         "ce_oi_change": 62418,
@@ -280,7 +280,7 @@
       },
       {
         "expiry_date": "19-Oct-2026",
-        "spot_price": 22695.95,
+        "spot_price": 22695.9,
         "strike_price": 22800,
         "ce_oi": 107308,
         "ce_oi_change": 50230,
@@ -316,7 +316,7 @@
       },
       {
         "expiry_date": "19-Oct-2026",
-        "spot_price": 22695.95,
+        "spot_price": 22695.9,
         "strike_price": 22900,
         "ce_oi": 81942,
         "ce_oi_change": 41274,
@@ -352,7 +352,7 @@
       },
       {
         "expiry_date": "19-Oct-2026",
-        "spot_price": 22695.95,
+        "spot_price": 22695.9,
         "strike_price": 23000,
         "ce_oi": 153777,
         "ce_oi_change": 56735,
@@ -388,7 +388,7 @@
       },
       {
         "expiry_date": "19-Oct-2026",
-        "spot_price": 22695.95,
+        "spot_price": 22695.9,
         "strike_price": 23200,
         "ce_oi": 99323,
         "ce_oi_change": 24170,
@@ -435,7 +435,7 @@
     "chain": [
       {
         "expiry_date": "27-Oct-2026",
-        "spot_price": 22695.75,
+        "spot_price": 22696.55,
         "strike_price": 22200,
         "ce_oi": 10954,
         "ce_oi_change": -48,
@@ -471,7 +471,7 @@
       },
       {
         "expiry_date": "27-Oct-2026",
-        "spot_price": 22695.75,
+        "spot_price": 22696.55,
         "strike_price": 22300,
         "ce_oi": 17680,
         "ce_oi_change": -458,
@@ -507,7 +507,7 @@
       },
       {
         "expiry_date": "27-Oct-2026",
-        "spot_price": 22695.75,
+        "spot_price": 22696.55,
         "strike_price": 22400,
         "ce_oi": 21560,
         "ce_oi_change": -178,
@@ -543,7 +543,7 @@
       },
       {
         "expiry_date": "27-Oct-2026",
-        "spot_price": 22695.75,
+        "spot_price": 22696.55,
         "strike_price": 22500,
         "ce_oi": 51164,
         "ce_oi_change": -2295,
@@ -579,7 +579,7 @@
       },
       {
         "expiry_date": "27-Oct-2026",
-        "spot_price": 22695.75,
+        "spot_price": 22696.55,
         "strike_price": 22600,
         "ce_oi": 33936,
         "ce_oi_change": -372,
@@ -615,7 +615,7 @@
       },
       {
         "expiry_date": "27-Oct-2026",
-        "spot_price": 22695.75,
+        "spot_price": 22696.55,
         "strike_price": 22700,
         "ce_oi": 52059,
         "ce_oi_change": 6545,
@@ -651,7 +651,7 @@
       },
       {
         "expiry_date": "27-Oct-2026",
-        "spot_price": 22695.75,
+        "spot_price": 22696.55,
         "strike_price": 22800,
         "ce_oi": 55538,
         "ce_oi_change": 5009,
@@ -687,7 +687,7 @@
       },
       {
         "expiry_date": "27-Oct-2026",
-        "spot_price": 22695.75,
+        "spot_price": 22696.55,
         "strike_price": 22900,
         "ce_oi": 25117,
         "ce_oi_change": 1533,
@@ -723,7 +723,7 @@
       },
       {
         "expiry_date": "27-Oct-2026",
-        "spot_price": 22695.75,
+        "spot_price": 22696.55,
         "strike_price": 23000,
         "ce_oi": 116125,
         "ce_oi_change": 3891,
@@ -759,7 +759,7 @@
       },
       {
         "expiry_date": "27-Oct-2026",
-        "spot_price": 22695.75,
+        "spot_price": 22696.55,
         "strike_price": 23100,
         "ce_oi": 29091,
         "ce_oi_change": 512,
@@ -795,7 +795,7 @@
       },
       {
         "expiry_date": "27-Oct-2026",
-        "spot_price": 22695.75,
+        "spot_price": 22696.55,
         "strike_price": 23200,
         "ce_oi": 56573,
         "ce_oi_change": 1848,
